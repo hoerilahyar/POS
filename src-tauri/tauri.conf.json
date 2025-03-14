@@ -10,9 +10,9 @@
   },
   "app": {"windows": [
       {
-        "title": "kasir-app",
-        "width": 800,
-        "height": 600
+        "title": "Vite Tauri Template",
+        "fullscreen": true,
+        "resizable": false
       }
     ],
     "security": {
